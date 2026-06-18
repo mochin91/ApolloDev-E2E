@@ -1,0 +1,7 @@
+{
+  "name": "filament",
+  "version": "1.0.0",
+  "slug": "filament",
+  "description": "Filament 4 & 5 admin panel patterns for Laravel",
+  "tags": ["filament", "laravel", "admin", "panel", "resource", "form", "table"]
+}
